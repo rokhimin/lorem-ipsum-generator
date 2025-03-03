@@ -1,0 +1,54 @@
+/* Chrome, Safari */
+        ::-webkit-scrollbar {
+            width: 15px;
+            height: 15px;
+            }
+            ::-webkit-scrollbar-track-piece  {
+            background-color: #222222;
+            }
+            ::-webkit-scrollbar-thumb:vertical {
+            height: 30px;
+            background-color: #535955;
+            }
+            
+            .hero {
+              background: linear-gradient(135deg, #4a148c, #7b1fa2);
+              color: white;
+              margin-bottom: 2rem;
+          }
+          .main-content {
+              padding: 2rem;
+          }
+          .form-card {
+              box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+              border-radius: 8px;
+              overflow: hidden;
+          }
+          .result-container {
+              margin-top: 2rem;
+              transition: all 0.3s ease;
+          }
+          .result-container.has-content {
+              border-left: 4px solid #7b1fa2;
+          }
+          .is-purple {
+              background-color: #7b1fa2;
+              color: white;
+          }
+          .is-purple:hover {
+              background-color: #4a148c;
+              color: white;
+          }
+          .loading {
+              display: none;
+              text-align: center;
+              padding: 1rem;
+          }
+          .field-label {
+              text-align: left;
+          }
+          @media screen and (min-width: 769px) {
+              .field-label {
+                  text-align: right;
+              }
+          }

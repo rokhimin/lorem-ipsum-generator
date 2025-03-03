@@ -1,0 +1,9 @@
+title: Lorem Ipsum Generator | whdzera
+email: whdzera@gmail.com
+baseurl: ""
+url: "" 
+twitter_username: whdzera
+github_username:  rokhimin/jekyll-nik-parse
+
+permalink: /:title.rb
+files: ""

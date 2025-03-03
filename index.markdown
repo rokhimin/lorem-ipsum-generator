@@ -1,0 +1,3 @@
+---
+layout: lorem_ipsum
+---
