@@ -3,7 +3,7 @@ email: whdzera@gmail.com
 baseurl: ""
 url: "" 
 twitter_username: whdzera
-github_username:  rokhimin/jekyll-nik-parse
+github_username:  rokhimin/lorem-ipsum-generator
 
 permalink: /:title.rb
 files: ""
